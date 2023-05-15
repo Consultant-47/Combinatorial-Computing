@@ -4,4 +4,6 @@
 [Enumerating Partitions](Week-1/ferrer_part_b.cpp)  
 [Proof](Week-1/proof_ferrer.pdf)  
 [Partitions of a Set](Week-1/partition.cpp)  
-[XOR Sort](Week-1/xor_sort.cpp)
+[XOR Sort](Week-1/xor_sort.cpp)  
+## Week 2
+[Graph Game](Week-2/graph_game.cpp)
