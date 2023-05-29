@@ -7,3 +7,5 @@
 [XOR Sort](Week-1/xor_sort.cpp)  
 ## Week 2
 [Graph Game](Week-2/graph_game.cpp)
+## Week 3
+[Sudoku Solver](Week-3/sudoku_solver.ipynb)  
