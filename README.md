@@ -8,4 +8,4 @@
 ## Week 2
 [Graph Game](Week-2/graph_game.cpp)
 ## Week 3
-[Sudoku Solver](Week-3/sudoku_solver.ipynb)  
+[Sudoku Solver](Week-3/sudoku_solver.py)  
