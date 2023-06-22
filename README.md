@@ -9,3 +9,9 @@
 [Graph Game](Week-2/graph_game.cpp)
 ## Week 3
 [Sudoku Solver](Week-3/sudoku_solver.py)  
+## Week 4
+[Bipartite Matching](Week-4/bipartite_matching.cpp)  
+[Partitions & Binary Trees](week-4/binary_tree.cpp)  
+## Week 5
+[Proof of Bipartite Matching](Week-5/bipartite_proof.pdf)  
+[Bipartite Matching](Week-5/bipartite_matching.cpp) 
